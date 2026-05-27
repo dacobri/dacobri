@@ -1,10 +1,14 @@
 <div align="center">
 
+<!-- ===== INTERACTIVE OPTION A: animated gradient banner (delete this block to remove) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6C4DF2&height=160&section=header&text=Brice%20Da%20Costa&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Business%20%C3%97%20AI&descAlignY=60&descSize=18" width="100%" alt="Brice Da Costa" />
+<!-- ===== END OPTION A ===== -->
+
 # Brice Da Costa
 
-### I turn business problems into AI &amp; data products
-
-Tech consulting × applied analytics × agentic AI — comfortable from the problem statement to the prototype.
+<!-- ===== INTERACTIVE OPTION B: animated typing tagline (delete this block to remove) ===== -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=620&height=42&lines=I+turn+business+problems+into+AI+%26+data+products;Tech+consulting+%C3%97+applied+analytics;Agentic+AI%2C+built+for+real+workflows;From+problem+statement+to+shipped+prototype)](https://www.linkedin.com/in/brice-da-costa/)
+<!-- ===== END OPTION B ===== -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-da-costa/)
 ![Location](https://img.shields.io/badge/📍-Barcelona,_Spain-lightgrey?style=flat-square)
@@ -29,12 +33,12 @@ What I bring:
 <tr>
 <td width="50%" valign="top">
 
-### 🧥 [AI Stylist — Vinted Outfit Match](https://github.com/dacobri/Vinted_Outfit_Matching_v3)
+### 🧥 [AI Stylist — Vinted Outfit Match](https://github.com/dacobri/vinted-ai-stylist)
 **Problem** — secondhand shoppers can't picture how an item works with what they own.<br><br>
 **What it does** — a three-agent Claude crew (stylist · critic · synthesiser) recommends outfits over a 44k-item catalog, with on-device vision tagging and virtual try-on.<br><br>
 **Why it matters** — shows agentic AI orchestration applied to a real commerce workflow.
 
-[`View →`](https://github.com/dacobri/Vinted_Outfit_Matching_v3)
+[`View →`](https://github.com/dacobri/vinted-ai-stylist)
 
 </td>
 <td width="50%" valign="top">
@@ -114,15 +118,3 @@ Cloud         AWS — EC2 · S3 · SageMaker · ECS · Lambda · API Gateway
 Apps & viz    Next.js · Streamlit · R Shiny · Plotly · ggplot2
 Business      Advanced Excel · PowerPoint · Word · Salesforce
 ```
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake.svg" />
-</picture>
-
-</div>
