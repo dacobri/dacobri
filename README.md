@@ -30,9 +30,9 @@ What I bring:
 <td width="50%" valign="top">
 
 ### 🧥 [AI Stylist — Vinted Outfit Match](https://github.com/dacobri/Vinted_Outfit_Matching_v3)
-**Problem:** secondhand shoppers can't picture how an item works with what they own.
-**What it does:** a three-agent Claude crew (stylist · critic · synthesiser) recommends outfits over a 44k-item catalog, with on-device vision tagging and virtual try-on.
-**Why it matters:** shows agentic AI orchestration applied to a real commerce workflow.
+**Problem** — secondhand shoppers can't picture how an item works with what they own.<br><br>
+**What it does** — a three-agent Claude crew (stylist · critic · synthesiser) recommends outfits over a 44k-item catalog, with on-device vision tagging and virtual try-on.<br><br>
+**Why it matters** — shows agentic AI orchestration applied to a real commerce workflow.
 
 [`View →`](https://github.com/dacobri/Vinted_Outfit_Matching_v3)
 
@@ -40,9 +40,9 @@ What I bring:
 <td width="50%" valign="top">
 
 ### 💸 [Fynn — Talk to Your Finances](https://github.com/dacobri/fynn-talk-to-your-finances)
-**Problem:** people's money is scattered across banks and brokers with no single view.
-**What it does:** unifies accounts into one dashboard with an AI copilot that answers money questions in natural language via live SQL and inline charts.
-**Why it matters:** a natural-language analytics layer over real financial data.
+**Problem** — people's money is scattered across banks and brokers with no single view.<br><br>
+**What it does** — unifies accounts into one dashboard with an AI copilot that answers money questions in natural language via live SQL and inline charts.<br><br>
+**Why it matters** — a natural-language analytics layer over real financial data.
 
 [`View →`](https://github.com/dacobri/fynn-talk-to-your-finances)
 
@@ -52,9 +52,9 @@ What I bring:
 <td width="50%" valign="top">
 
 ### 📉 [Employee Attrition — Predictive HR Dashboard](https://github.com/dacobri/ibm-hr-attrition-dashboard)
-**Problem:** losing an employee costs 50–200% of their salary, and HR finds out too late.
-**What it does:** an ML pipeline (XGBoost, ROC-AUC 0.84) wrapped in an interactive dashboard that flags at-risk employees and recommends actions.
-**Why it matters:** statistics translated into HR decisions, not just a model.
+**Problem** — losing an employee costs 50–200% of their salary, and HR finds out too late.<br><br>
+**What it does** — an ML pipeline (XGBoost, ROC-AUC 0.84) wrapped in an interactive dashboard that flags at-risk employees and recommends actions.<br><br>
+**Why it matters** — statistics translated into HR decisions, not just a model.
 
 [`View →`](https://github.com/dacobri/ibm-hr-attrition-dashboard)
 
@@ -62,9 +62,9 @@ What I bring:
 <td width="50%" valign="top">
 
 ### 🍷 [Wine Shop — Customer Intelligence](https://github.com/dacobri/wine-shop-customer-dashboard)
-**Problem:** a store had 404 survey responses and no way to act on them.
-**What it does:** segments customers, models spend tiers, and runs what-if revenue scenarios in an interactive dashboard built for the manager.
-**Why it matters:** raw survey data turned into a decision tool for a non-technical client.
+**Problem** — a store had 404 survey responses and no way to act on them.<br><br>
+**What it does** — segments customers, models spend tiers, and runs what-if revenue scenarios in an interactive dashboard built for the manager.<br><br>
+**Why it matters** — raw survey data turned into a decision tool for a non-technical client.
 
 [`View →`](https://github.com/dacobri/wine-shop-customer-dashboard)
 
@@ -74,31 +74,55 @@ What I bring:
 <td width="50%" valign="top">
 
 ### 🚀 [Kickstarter Success Prediction](https://github.com/dacobri/Kickstarter_ML)
-**Problem:** ~37% of crowdfunding campaigns fail, and creators only find out at the deadline.
-**What it does:** predicts success from pre-launch signals across 160k+ campaigns, with a sharp write-up on leakage and distribution shift.
-**Why it matters:** demonstrates analytical judgement, not just model accuracy.
+**Problem** — ~37% of crowdfunding campaigns fail, and creators only find out at the deadline.<br><br>
+**What it does** — predicts success from pre-launch signals across 160k+ campaigns, with a sharp write-up on leakage and distribution shift.<br><br>
+**Why it matters** — demonstrates analytical judgement, not just model accuracy.
 
 [`View →`](https://github.com/dacobri/Kickstarter_ML)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Let's talk
-I'm open to roles in **tech consulting, business analytics, and applied/agentic AI**.
+### ⚙️ [Turbofan Engine — Predictive Maintenance](https://github.com/dacobri/turbofan-rul-prediction)
+**Problem** — maintenance teams need to know how long a jet engine has left before it fails.<br><br>
+**What it does** — predicts remaining useful life from NASA CMAPSS sensor data (Gradient Boosting, RMSE ≈ 19 cycles), exported as lightweight, deployment-ready artifacts for a real-time inference API.<br><br>
+**Why it matters** — an end-to-end ML pipeline from raw sensors to a serving-ready model.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-da-costa/)
+[`View →`](https://github.com/dacobri/turbofan-rul-prediction)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🤝 Let's talk
+I'm open to roles in **tech consulting, business analytics, and applied / agentic AI**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-da-costa/)
+
+</div>
 
 ---
 
 ## Toolbox
 
 ```
-AI / Agents    Claude · multi-agent systems · tool calling · RAG · LLM apps
-Data / ML      Python · R · scikit-learn · XGBoost · tidymodels · pandas
-Apps           Next.js · Streamlit · R Shiny · Plotly
-Ways of working   problem framing · data → decision · stakeholder communication
+AI / Agents   LLMs & AI assistants · multi-agent systems · tool calling · RAG · prompt engineering
+Data / ML     Python · R · SQL · scikit-learn · XGBoost · tidymodels · pandas
+Cloud         AWS — EC2 · S3 · SageMaker · ECS · Lambda · API Gateway
+Apps & viz    Next.js · Streamlit · R Shiny · Plotly · ggplot2
+Business      Advanced Excel · PowerPoint · Word · Salesforce
 ```
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dacobri/dacobri/output/github-snake.svg" />
+</picture>
+
+</div>
